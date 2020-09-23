@@ -10,3 +10,5 @@ to run strapi container on you development machine, pls follow these steps.
 4. then run "docker-compose up -d" to start container in the background mode
 
 Note: if this is your first run, it might need to wait a while for strapi to settup dependencies
+
+If everything is OK, strapi container will run on port: 1337, and Mongodb container will run on port: 27017
