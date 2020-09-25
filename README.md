@@ -2,9 +2,12 @@
 
 Strapi is headless CMS that comes with REST APIs ready to use.
 
+
+### Instruction
+
 to setup strapi container on you development machine, pls follow these steps.
 
-1. clone this repository to your working directory
+1. clone this project to your working directory
 2. move inside your working directory. You will see docker-compose.yml + .env file
 3. in your terminal, run "docker-compose pull" to download docker images (in this case strapi and mongodb)
 4. then run "docker-compose up -d" to start container in the background mode
